@@ -12,7 +12,7 @@ public class Weather implements Serializable {
     private static final long serialVersionUID = -4196587279252611716L;
 
     private String city; //城市
-    private String aqi; //
+    private String aqi; //空气指数
     private String ganmao; //感冒
     private String wendu; //温度
     private Yeaterday yesterday; //昨日天气
